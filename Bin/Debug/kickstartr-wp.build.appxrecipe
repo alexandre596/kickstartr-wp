@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEXANDRE-NTBK</Machine>
+    <WindowsUser>Alexandre%27</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6e5e644d-2695-475f-b562-8333af0b2835</PackageIdentityName>
+    <IntermediateOutputPath>e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Bin\Debug\kickstartr-wp.dll">
+      <PackagePath>kickstartr-wp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\alexandre\documents\visual studio 2013\Projects\kickstartr-wp\kickstartr-wp\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
