@@ -5,12 +5,21 @@
     SampleProperty="Sample Text Property Value">
 
     <vm:MainViewModel.Items>
-        <vm:ItemViewModel LineOne="design one" LineTwo="Maecenas praesent accumsan bibendum" LineThree="Maecenas praesent accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur"/>
-        <vm:ItemViewModel LineOne="design two" LineTwo="Dictumst eleifend facilisi faucibus" LineThree="Pharetra placerat pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent"/>
-        <vm:ItemViewModel LineOne="design three" LineTwo="Habitant inceptos interdum lobortis" LineThree="Accumsan bibendum dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur pharetra placerat"/>
-        <vm:ItemViewModel LineOne="design four" LineTwo="Nascetur pharetra placerat pulvinar" LineThree="Pulvinar sagittis senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent accumsan bibendum"/>
-        <vm:ItemViewModel LineOne="design five" LineTwo="Sagittis senectus sociosqu suscipit" LineThree="Dictumst eleifend facilisi faucibus habitant inceptos interdum lobortis nascetur pharetra placerat pulvinar sagittis"/>
-        <vm:ItemViewModel LineOne="design six" LineTwo="Torquent ultrices vehicula volutpat" LineThree="Senectus sociosqu suscipit torquent ultrices vehicula volutpat maecenas praesent accumsan bibendum dictumst eleifend"/>
+        <vm:ItemViewModel LineOne="art" LineTwo="408 live projects"/>
+        <vm:ItemViewModel LineOne="comics" LineTwo="169 live projects"/>
+        <vm:ItemViewModel LineOne="crafts" LineTwo="191 live projects"/>
+        <vm:ItemViewModel LineOne="dance" LineTwo="44 live projects"/>
+        <vm:ItemViewModel LineOne="design" LineTwo="538 live projects"/>
+        <vm:ItemViewModel LineOne="fashion" LineTwo="427 live projects"/>
+        <vm:ItemViewModel LineOne="film and video" LineTwo="814 live projects"/>
+        <vm:ItemViewModel LineOne="food" LineTwo="499 live projects"/>
+        <vm:ItemViewModel LineOne="games" LineTwo="581 live projects"/>
+        <vm:ItemViewModel LineOne="journalism" LineTwo="100 live projects"/>
+        <vm:ItemViewModel LineOne="music" LineTwo="696 live projects"/>
+        <vm:ItemViewModel LineOne="photography" LineTwo="170 live projects"/>
+        <vm:ItemViewModel LineOne="publishing" LineTwo="616 live projects"/>
+        <vm:ItemViewModel LineOne="technology" LineTwo="834 live projects"/>
+        <vm:ItemViewModel LineOne="theater" LineTwo="156 live projects"/>
     </vm:MainViewModel.Items>
 
 </vm:MainViewModel>

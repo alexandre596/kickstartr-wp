@@ -37,9 +37,9 @@
          -->
 
         <!--Pivot Control-->
-        <phone:Pivot Title="MY APPLICATION">
+        <phone:Pivot Title="KICKSTARTR">
             <!--Pivot item one-->
-            <phone:PivotItem Header="first">
+            <phone:PivotItem Header="discover">
                 <!--Double line list with text wrapping-->
                 <phone:LongListSelector Margin="0,0,-12,0" ItemsSource="{Binding Items}">
                     <phone:LongListSelector.ItemTemplate>
